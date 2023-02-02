@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/jordy-sudo/MegaOhm/static/css/main.d8cbb1b8.css",
-    "main.js": "/jordy-sudo/MegaOhm/static/js/main.57df40ba.js",
-    "index.html": "/jordy-sudo/MegaOhm/index.html",
-    "main.d8cbb1b8.css.map": "/jordy-sudo/MegaOhm/static/css/main.d8cbb1b8.css.map",
-    "main.57df40ba.js.map": "/jordy-sudo/MegaOhm/static/js/main.57df40ba.js.map"
+    "main.css": "/MegaOhm/static/css/main.d8cbb1b8.css",
+    "main.js": "/MegaOhm/static/js/main.57df40ba.js",
+    "index.html": "/MegaOhm/index.html",
+    "main.d8cbb1b8.css.map": "/MegaOhm/static/css/main.d8cbb1b8.css.map",
+    "main.57df40ba.js.map": "/MegaOhm/static/js/main.57df40ba.js.map"
   },
   "entrypoints": [
     "static/css/main.d8cbb1b8.css",
