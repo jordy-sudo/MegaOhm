@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/MegaOhm/static/css/main.d8cbb1b8.css",
-    "main.js": "/MegaOhm/static/js/main.57df40ba.js",
+    "main.js": "/MegaOhm/static/js/main.24536111.js",
     "index.html": "/MegaOhm/index.html",
     "main.d8cbb1b8.css.map": "/MegaOhm/static/css/main.d8cbb1b8.css.map",
-    "main.57df40ba.js.map": "/MegaOhm/static/js/main.57df40ba.js.map"
+    "main.24536111.js.map": "/MegaOhm/static/js/main.24536111.js.map"
   },
   "entrypoints": [
     "static/css/main.d8cbb1b8.css",
-    "static/js/main.57df40ba.js"
+    "static/js/main.24536111.js"
   ]
 }
